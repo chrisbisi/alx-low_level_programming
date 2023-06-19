@@ -20,8 +20,8 @@ int main(void)
 			if (digit2 == 8 && digit2 == 9)
 				continue;
 
-			putchar(' , ');
-			putchar('  ');
+			putchar(',');
+			putchar(' ');
 		}
 	}
 
