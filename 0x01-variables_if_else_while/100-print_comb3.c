@@ -17,7 +17,7 @@ int main(void)
 
 			if (count < 44)
 			{
-				putchar(' , ');
+				putchar(',');
 				putchar(' ');
 
 			}
@@ -28,3 +28,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
+}
