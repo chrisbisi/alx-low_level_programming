@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ * positive_or _negative file for debugging
+ * created by chrisogee
+ */
+
 void positive_or_negative(int i)
 {
 	if (i > 0)
